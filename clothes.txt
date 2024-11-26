@@ -1,0 +1,10 @@
+sweatshirt;M;Red;1;1;winter;200;10
+shirt;M;Blue;silk;2;winter;300;20
+T-shirt;M;Blue;silk;3;summer;300;20
+HOOdiee;M;Blue;silk;4;summer;300;20
+pant;M;Blue;silk;5;winter;300;20
+shorts;M;Blue;cotton;6;summer;300;20
+fff;ddd;fff;ddd;37;fff;23;34
+fff;ddd;fff;ddd;40;fff;23;34
+fffgg;ggggg;ggg;ggggg;45;summer;3333;44
+shirt;L;red;cotton;1;summer;400;3
